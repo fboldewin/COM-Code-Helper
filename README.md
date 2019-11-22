@@ -15,8 +15,8 @@ To learn about COM check out the Microsoft website--> https://docs.microsoft.com
 
 Code was tested on IDA 7.4 and Python versions 2+3
 
-![Alt text](relative/code/COM-Code-Original1.PNGimg.jpg?raw=true)
+![alt text](https://github.com/fboldewin/COM-Code-Helper/raw/master/code/COM-Code-Before-After-1.png)
 
-![Alt text](relative/code/COM-Code-Original2.PNGimg.jpg?raw=true)
+![alt text](https://github.com/fboldewin/COM-Code-Helper/raw/master/code/COM-Code-Before-After-2.png)
 
-![Alt text](relative/code/COM-Code-Original3.PNGimg.jpg?raw=true)
+![alt text](https://github.com/fboldewin/COM-Code-Helper/raw/master/code/COM-Code-Before-After-3.png)
