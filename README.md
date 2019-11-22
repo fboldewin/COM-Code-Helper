@@ -9,6 +9,8 @@ Make sure to copy interfaces.txt + classes.txt is in the same directory as Class
 
 # Microsoft-SDK-Vtable-Structs.py
 This IDAPython script creates vtables derrived from Microsoft SDK.
+Execution of the script takes a while, as lot of structures are created. After the script finished, go to the COM code
+you like to reconstruct, press 'T' and select the correct vtable-structure.
 
 
 To learn about COM check out the Microsoft website:
