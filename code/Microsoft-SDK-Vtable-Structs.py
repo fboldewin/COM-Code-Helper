@@ -1,5 +1,5 @@
 """
-This IDAPython script creates vtables derrived from Microsoft PSDK. These comes in handy when reversing Microsoft-COM (Component Object Model) code.
+This IDAPython script creates vtables derrived from Microsoft PSDK.
 
 To learn about COM check out the Microsoft website--> https://docs.microsoft.com/en-us/windows/win32/com/the-component-object-model
 For an examples how to use it --> https://github.com/fboldewin/reconstructer.org/blob/master/Practical%20COM%20code%20reconstruction.swf
