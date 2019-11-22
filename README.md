@@ -1,5 +1,5 @@
 # COM-Code-Helper
-Two IDAPython Scripts helping you to reconstruct Microsoft COM (Component Object Model) Code
+Two IDAPython Scripts help you to reconstruct Microsoft COM (Component Object Model) Code
 Especially malware reversers will find this useful, as COM Code is still regularly found in malware.
 
 # ClassAndInterfaceToNames.py
